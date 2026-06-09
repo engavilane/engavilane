@@ -60,10 +60,13 @@ I love learning new technologies, analyzing biological data, and finding creativ
 
 ### 🔬 **Research Experience**
 
-**🧩 Bioinformatics Internship – iGReD, Clermont-Ferrand (Feb 2025)**  
+**🧫 Bioinformatics Internship – Oxford Brookes University, Oxford, UK (June-July 2026)** 
+> An in silico drug discovery pipeline targeting Mps1/TTK (PDB: 5LJJ), a mitotic kinase implicated in cancer. This project combines AutoDock Vina molecular docking, ADME filtering, and a structure-based machine learning model to rank and characterise 80 inhibitors by their predicted binding affinity.
+
+**🧩 Bioinformatics Internship – iGReD, Clermont-Ferrand, France (Feb 2025)**  
 > Application of bioinformatics tools to study chromatin structure using 3D bioimaging and structural biology methods.
 
-**🧬 Molecular Biology Internship – iGReD, Clermont-Ferrand (Jun 2025)**  
+**🧬 Molecular Biology Internship – iGReD, Clermont-Ferrand, France (Jun 2025)**  
 > Research on regulation mechanisms of transposable elements in *Drosophila* germline.
 
 ---
