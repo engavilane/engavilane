@@ -76,7 +76,7 @@ I love learning new technologies, analyzing biological data, and finding creativ
 **🧩 Bioinformatics Internship – iGReD, Clermont-Ferrand, France (Feb 2025)**  
 > Application of bioinformatics tools to study chromatin structure using 3D bioimaging and structural biology methods.
 
-**🧬 Molecular Biology Internship – iGReD, Clermont-Ferrand, France (Jun 2025)**  
+**🧬 Molecular Biology Internship – iGReD, Clermont-Ferrand, France (June 2025)**  
 > Research on regulation mechanisms of transposable elements in *Drosophila* germline.
 
 ---
