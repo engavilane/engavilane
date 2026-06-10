@@ -36,6 +36,10 @@ I love learning new technologies, analyzing biological data, and finding creativ
 - Protein structure prediction with **AlphaFold**, **ESMFold**  
 - Genomics & transcriptomics pipelines  
 - Databases: **UniProt**, **PDB**, **NCBI**, **ChEMBL**, **Tox21**, **Ensembl**, **Bioconductor**
+- Molecular docking & virtual screening (AutoDock Vina, Meeko)
+- Cheminformatics & ADME filtering (RDKit, Morgan fingerprints)
+- Structure-based ML for drug discovery (scikit-learn)
+- PDB/PubChem API automation (Python)
 
 #### ⚙️ Tools & Environments
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
@@ -60,8 +64,14 @@ I love learning new technologies, analyzing biological data, and finding creativ
 
 ### 🔬 **Research Experience**
 
-**🧫 Bioinformatics Internship – Oxford Brookes University, Oxford, UK (June-July 2026)** 
-> An in silico drug discovery pipeline targeting Mps1/TTK (PDB: 5LJJ), a mitotic kinase implicated in cancer. This project combines AutoDock Vina molecular docking, ADME filtering, and a structure-based machine learning model to rank and characterise 80 inhibitors by their predicted binding affinity.
+**🧫 Bioinformatics Internship – Oxford Brookes University, Oxford, UK (June-July 2026)**
+> End-to-end in silico drug discovery pipeline targeting Mps1/TTK kinase (PDB: 5LJJ), 
+> a mitotic checkpoint regulator overexpressed in aggressive cancers. Built an automated 
+> pipeline combining structure-based virtual screening (AutoDock Vina), hinge-region 
+> interaction analysis (Gly605/Glu603), ADME/PAINS filtering (RDKit), and a Ridge 
+> Regression model (R²=0.706, LOOCV) trained on physicochemical and structural features 
+> to predict binding affinity. Extended to novel candidate discovery via PubChem 
+> structural similarity search.
 
 **🧩 Bioinformatics Internship – iGReD, Clermont-Ferrand, France (Feb 2025)**  
 > Application of bioinformatics tools to study chromatin structure using 3D bioimaging and structural biology methods.
@@ -73,7 +83,8 @@ I love learning new technologies, analyzing biological data, and finding creativ
 
 ### 🔍 **Research Interests**
 🧠 Deep learning applied to biological sequences and protein modeling  
-💊 AI-driven drug discovery and molecular property prediction  
+💊 AI-driven drug discovery — molecular docking, ADME filtering, 
+   and ML-based binding affinity prediction  
 🧫 Treatement of antibiotic resistant bacterium using AI tools  
 
 ---
